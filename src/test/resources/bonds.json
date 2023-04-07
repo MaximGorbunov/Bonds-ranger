@@ -1,0 +1,3346 @@
+{
+  "instruments": [
+    {
+      "figi": "BBG012F0B291",
+      "ticker": "SU52004RMFS7",
+      "class_code": "TQOB",
+      "isin": "RU000A103MX5",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 52004",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1963094400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1172,
+        "nano": 590000000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1630540800
+      },
+      "placement_date": {
+        "seconds": 1631059200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "nano": 960000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 249999999,
+      "issue_size_plan": 250000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "21ed89ff-852e-4344-8df7-6ca8cb4cc447",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "1cbad19b-146c-40d7-9c9c-4ddcd2b2d174",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1634131140
+      },
+      "first_1day_candle_date": {
+        "seconds": 1634108400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG01BX150V5",
+      "ticker": "SU29023RMFS7",
+      "class_code": "TQOB",
+      "isin": "RU000A105L19",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29023",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 2039904000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1670198400
+      },
+      "placement_date": {
+        "seconds": 1670371200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 630000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 1000000000,
+      "issue_size_plan": 750000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "8fbb4be2-70d1-4476-8a9d-a6212b3300bc",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "477408ea-0816-4cbe-a05c-6249af7ae450",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1670483940
+      },
+      "first_1day_candle_date": {
+        "seconds": 1670482800
+      }
+    },
+    {
+      "figi": "BBG00XV43CN9",
+      "ticker": "SU29017RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A1028D5",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29017",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1977004800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1602460800
+      },
+      "placement_date": {
+        "seconds": 1602633600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 630000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350607135,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "28883c3b-bbf8-4cec-af40-8219637593e4",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "5dc9a898-357a-4fa1-9374-57cf34a3ac8f",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1602678600
+      },
+      "first_1day_candle_date": {
+        "seconds": 1602658800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG01BJBR2W0",
+      "ticker": "SU26241RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A105FZ9",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26241",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1984262400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1668038400
+      },
+      "placement_date": {
+        "seconds": 1668556800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 37,
+        "nano": 740000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 750000000,
+      "issue_size_plan": 750000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "d1a26638-5c5c-42eb-b1d1-47c383a3a879",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "730d25b6-9bb4-4f30-9827-ddeb4e84ce5b",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1668668400
+      },
+      "first_1day_candle_date": {
+        "seconds": 1668668400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00PBZNWM4",
+      "ticker": "SU26230RMFS1",
+      "class_code": "TQOB",
+      "isin": "RU000A100EF5",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26230",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2183846400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1559520000
+      },
+      "placement_date": {
+        "seconds": 1559692800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 1,
+        "nano": 50000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 300000000,
+      "issue_size_plan": 300000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "9b933bc0-bc9c-46c3-8be0-d15249b81408",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "33ab29cc-70ac-47d0-a210-1eb18c7501ea",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1560943800
+      },
+      "first_1day_candle_date": {
+        "seconds": 1560927600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG007Z5F748",
+      "ticker": "SU29009RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A0JV4N8",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29009",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1967328000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1419984000
+      },
+      "placement_date": {
+        "seconds": 1419984000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 40,
+        "nano": 800000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "f8067628-b54f-43e3-b6c5-6edfcabcb279",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "181ae141-549f-4913-ae1f-c64f7a345331",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520457000
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00VY13C74",
+      "ticker": "SU29014RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A101N52",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29014",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1774396800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1588809600
+      },
+      "placement_date": {
+        "seconds": 1589328000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 2,
+        "nano": 370000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "98d3d343-9d89-467a-8d2b-da114e26df5b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "d5362ea0-c1f7-401d-b584-b0713113d9a3",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1594215780
+      },
+      "first_1day_candle_date": {
+        "seconds": 1594191600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00NQBGZX5",
+      "ticker": "SU26227RMFS7",
+      "class_code": "TQOB",
+      "isin": "RU000A1007F4",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26227",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1721174400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1553472000
+      },
+      "placement_date": {
+        "seconds": 1553644800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 16,
+        "nano": 630000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "a550328e-ec34-4120-874f-9e82f0dc9723",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "e596466b-142a-4bf4-be6f-bbb0238f59d3",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1553677980
+      },
+      "first_1day_candle_date": {
+        "seconds": 1553670000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG011FJ6573",
+      "ticker": "SU26237RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A1038Z7",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26237",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1868140800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1623369600
+      },
+      "placement_date": {
+        "seconds": 1623801600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 3,
+        "nano": 490000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "b2851330-f5bc-4bca-8726-26fcc3abfeaf",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "03ed4a5a-a53d-47e5-a782-2b61c5c84656",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1624460820
+      },
+      "first_1day_candle_date": {
+        "seconds": 1624431600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00VCY76T1",
+      "ticker": "SU26234RMFS3",
+      "class_code": "TQOB",
+      "isin": "RU000A101QE0",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26234",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1752624000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1590624000
+      },
+      "placement_date": {
+        "seconds": 1591142400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 10,
+        "nano": 110000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "abf46047-f3d8-4b1b-a33f-9aeed753cc02",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "923968dc-d455-4ef9-9329-2c1b1f1faf6b",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1591791060
+      },
+      "first_1day_candle_date": {
+        "seconds": 1591772400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00XD2M5S2",
+      "ticker": "SU52003RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A102069",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 52003",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1910476800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1247,
+        "nano": 270000000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1596585600
+      },
+      "placement_date": {
+        "seconds": 1597190400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 410000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 218186911,
+      "issue_size_plan": 250000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "788ced35-f059-4bb1-b9b0-262aee0a2d8b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "3f2067b7-2805-4015-a698-352ea2a9e821",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1600270740
+      },
+      "first_1day_candle_date": {
+        "seconds": 1600239600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG01BJBTTH6",
+      "ticker": "SU29022RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A105G16",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29022",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 2005430400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1668038400
+      },
+      "placement_date": {
+        "seconds": 1668556800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 13,
+        "nano": 490000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 1000000000,
+      "issue_size_plan": 750000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "0e748081-d4f0-48c1-96fe-8fd09a07b509",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "8fbf26cd-7c96-4103-a4d9-9656c840d87a",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1668671460
+      },
+      "first_1day_candle_date": {
+        "seconds": 1668668400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00Y4SQ1Y1",
+      "ticker": "SU29020RMFS3",
+      "class_code": "TQOB",
+      "isin": "RU000A102BV4",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29020",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1821571200
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1604880000
+      },
+      "placement_date": {
+        "seconds": 1605052800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 2,
+        "nano": 370000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "9a75c907-1da3-4ebd-b1c3-555c98a1736a",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "39ec0625-d45b-4a4d-9aa1-5ada9a86f8de",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1605103440
+      },
+      "first_1day_candle_date": {
+        "seconds": 1605078000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00K53DJP0",
+      "ticker": "SU26223RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A0ZYU88",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26223",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1709078400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1518652800
+      },
+      "placement_date": {
+        "seconds": 1519171200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 7,
+        "nano": 120000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "547a4a73-d52e-4071-a6f0-afc7ed0baf9b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "a02246ab-bfc1-44f7-a039-f245cb0236b9",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520468220
+      },
+      "first_1day_candle_date": {
+        "seconds": 1519776000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG007Z5DF79",
+      "ticker": "SU29007RMFS0",
+      "class_code": "TQOB",
+      "isin": "RU000A0JV4M0",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29007",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1804032000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1419984000
+      },
+      "placement_date": {
+        "seconds": 1419984000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 7,
+        "nano": 860000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "3c9530da-8dad-4aed-a022-bc94bec33c98",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "5e93529d-a4a0-4d88-b3ae-86961348692d",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448900
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00Y28DH67",
+      "ticker": "SU29018RMFS7",
+      "class_code": "TQOB",
+      "isin": "RU000A102A31",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29018",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1953417600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1603670400
+      },
+      "placement_date": {
+        "seconds": 1603843200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 630000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 427747115,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "93d49733-cde2-4832-afd7-2274b4dcd96e",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "1a81e6dd-a8d5-471d-9c31-1748ffb86e6d",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1604403960
+      },
+      "first_1day_candle_date": {
+        "seconds": 1604386800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00425VG07",
+      "ticker": "SU26212RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A0JTK38",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26212",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1831852800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1358380800
+      },
+      "placement_date": {
+        "seconds": 1358899200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 14,
+        "nano": 480000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 358927588,
+      "issue_size_plan": 150000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "c5711a61-94c5-4c68-852b-6122fdac79a4",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "93bab2b1-949a-4536-a598-0e05e34ac52f",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520450400
+      },
+      "first_1day_candle_date": {
+        "seconds": 1358899200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG007Z5DZS2",
+      "ticker": "SU29008RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A0JV4P3",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 29008",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1885680000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1419984000
+      },
+      "placement_date": {
+        "seconds": 1419984000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 57,
+        "nano": 700000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "f6babbbb-2792-4104-a29b-81fbfdfa14e8",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "2b73d4e0-338c-42f9-bcaf-35c97121295d",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448180
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00XP7VH57",
+      "ticker": "SU29016RMFS1",
+      "class_code": "TQOB",
+      "isin": "RU000A1025B5",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29016",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1797984000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1600646400
+      },
+      "placement_date": {
+        "seconds": 1600819200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 2,
+        "nano": 370000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 155059582,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "04b08cb4-c49e-4346-9869-efb4c69544f9",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "78766ddc-236b-4890-a406-26793a5e6bae",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1601466660
+      },
+      "first_1day_candle_date": {
+        "seconds": 1601449200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG002PD3452",
+      "ticker": "SU26207RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A0JS3W6",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26207",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1801612800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1329177600
+      },
+      "placement_date": {
+        "seconds": 1329868800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 13,
+        "nano": 620000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 150000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "1c5d6a37-5790-46f4-b4cc-aff8ce533c4b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "6848a542-4310-41a9-b2ce-55f288449988",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520447940
+      },
+      "first_1day_candle_date": {
+        "seconds": 1329868800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00G6V7252",
+      "ticker": "SU26221RMFS0",
+      "class_code": "TQOB",
+      "isin": "RU000A0JXFM1",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26221",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1995148800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1486339200
+      },
+      "placement_date": {
+        "seconds": 1487116800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 1,
+        "nano": 50000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "42eba190-0282-4f84-8e6b-38aa924b9b3b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "236d6bf8-e9b2-45fe-9b37-eeb231df9118",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520447580
+      },
+      "first_1day_candle_date": {
+        "seconds": 1489536000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG007Z13SN3",
+      "ticker": "SU29006RMFS2",
+      "class_code": "TQOB",
+      "isin": "RU000A0JV4L2",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 29006",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1738108800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1419984000
+      },
+      "placement_date": {
+        "seconds": 1419984000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 16,
+        "nano": 260000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "28eec3fa-a75c-4b2e-b768-dab04a2adf24",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "9c01b2e2-7185-43a0-a3db-9d9af2ec9fc9",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520449500
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00RRT3V69",
+      "ticker": "SU26233RMFS5",
+      "class_code": "TQOB",
+      "isin": "RU000A101F94",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26233",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2068329600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1581638400
+      },
+      "placement_date": {
+        "seconds": 1582070400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 11,
+        "nano": 370000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "24b9a6a6-326e-492e-9786-e1b152c7e5da",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "62803ab1-6dfc-4d2e-9164-ddd58973f781",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1589378580
+      },
+      "first_1day_candle_date": {
+        "seconds": 1589353200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG011MLGP84",
+      "ticker": "SU26240RMFS0",
+      "class_code": "TQOB",
+      "isin": "RU000A103BR0",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26240",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2100988800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1624838400
+      },
+      "placement_date": {
+        "seconds": 1625011200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 10,
+        "nano": 350000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 465204644,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "8e0cdf80-b569-4ccf-ac4e-ead70c9e4c80",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "80dbb843-64b8-45ef-a903-93cc35aec815",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1626333360
+      },
+      "first_1day_candle_date": {
+        "seconds": 1626332400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG011FJ4HS6",
+      "ticker": "SU26238RMFS4",
+      "class_code": "TQOB",
+      "isin": "RU000A1038V6",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26238",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2252188800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1623369600
+      },
+      "placement_date": {
+        "seconds": 1623801600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 24,
+        "nano": 120000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "92b9e913-d7df-4164-bd83-1013c819bf44",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "a2413ca4-9e08-4c56-8e8b-7fe1e0a0648b",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1624448640
+      },
+      "first_1day_candle_date": {
+        "seconds": 1624431600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00NZHWSQ8",
+      "ticker": "SU26228RMFS5",
+      "class_code": "TQOB",
+      "isin": "RU000A100A82",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26228",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1902009600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1555891200
+      },
+      "placement_date": {
+        "seconds": 1556064000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 36,
+        "nano": 260000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "cf2a3cac-5016-4ebd-8e89-894d8186d4a2",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "59e2c000-9594-41ba-9230-26384d0702e9",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1556092620
+      },
+      "first_1day_candle_date": {
+        "seconds": 1556089200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00KFLDC92",
+      "ticker": "SU52002RMFS1",
+      "class_code": "TQOB",
+      "isin": "RU000A0ZYZ26",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 52002",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1833062400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1371,
+        "nano": 850000000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1521158400
+      },
+      "placement_date": {
+        "seconds": 1521590400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 5,
+        "nano": 740000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 250000000,
+      "issue_size_plan": 150000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "0cd30d33-7c7d-4a81-ba7d-154200d0103b",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "1d9d0494-3682-4dab-a384-916a759fef7b",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1522865760
+      },
+      "first_1day_candle_date": {
+        "seconds": 1522825200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00N8J90K7",
+      "ticker": "SU26226RMFS9",
+      "class_code": "TQOB",
+      "isin": "RU000A0ZZYW2",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26226",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1791331200
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1545004800
+      },
+      "placement_date": {
+        "seconds": 1545177600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 39,
+        "nano": 200000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "c355adac-9536-4aed-a09f-15bc4e99d4b5",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "a0e2bd0d-2782-4836-b547-0f591d98ba93",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1549452660
+      },
+      "first_1day_candle_date": {
+        "seconds": 1549436400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG0000LFC18",
+      "ticker": "SU46022RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A0JPLH5",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 46022",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1689724800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 500
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1200528000
+      },
+      "placement_date": {
+        "seconds": 1201046400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 180000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 45000000,
+      "issue_size_plan": 9000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "amortization_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "6c4c8db2-ce6b-48a8-92e9-6d3a84301665",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "453fe2a6-e6bd-4449-a38b-127cb8275f75",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520604660
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520578800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG0058ZL5S7",
+      "ticker": "SU26215RMFS2",
+      "class_code": "TQOB",
+      "isin": "RU000A0JU4L3",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26215",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1692144000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1377734400
+      },
+      "placement_date": {
+        "seconds": 1378252800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 10,
+        "nano": 350000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 260885454,
+      "issue_size_plan": 150000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "41f2c6cd-e284-4382-8488-fa53ddcd5d40",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "ade05ddd-8f0a-4f28-ad6c-f67188ae65e5",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448120
+      },
+      "first_1day_candle_date": {
+        "seconds": 1379462400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00PBZNT41",
+      "ticker": "SU26229RMFS3",
+      "class_code": "TQOB",
+      "isin": "RU000A100EG3",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26229",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1762905600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1559520000
+      },
+      "placement_date": {
+        "seconds": 1559692800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 28,
+        "nano": 400000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "eafc97e5-0d5a-417a-8392-53b846cab875",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "eea65ea6-12d6-4fc8-bb2e-1d3dfca1c855",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1559805360
+      },
+      "first_1day_candle_date": {
+        "seconds": 1559804400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG011FHF1F7",
+      "ticker": "SU26239RMFS2",
+      "class_code": "TQOB",
+      "isin": "RU000A103901",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26239",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1942531200
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1623369600
+      },
+      "placement_date": {
+        "seconds": 1623801600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 12,
+        "nano": 860000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "4a2018da-7e84-4c2f-b95d-1fd8f3d630e3",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "c9aeb3f3-1213-4e69-a778-b8796e6a2f8a",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1623844740
+      },
+      "first_1day_candle_date": {
+        "seconds": 1623826800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00R0Z4YW8",
+      "ticker": "SU26232RMFS7",
+      "class_code": "TQOB",
+      "isin": "RU000A1014N4",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26232",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1822780800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1575244800
+      },
+      "placement_date": {
+        "seconds": 1575417600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 29,
+        "nano": 590000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "d240143e-ed57-45cd-801d-22fbd904e4ca",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "ecfc5bdf-3b8f-4dfc-902e-3f27b65786b3",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1576064100
+      },
+      "first_1day_candle_date": {
+        "seconds": 1576047600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG007Z5FFL1",
+      "ticker": "SU29010RMFS4",
+      "class_code": "TQOB",
+      "isin": "RU000A0JV4Q1",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 29010",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2048976000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1419984000
+      },
+      "placement_date": {
+        "seconds": 1419984000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 28,
+        "nano": 720000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "3022c752-91f0-4e66-94ad-c536473e14c9",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "35bc676b-3724-4488-9b7e-9dc866ff098f",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520450040
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00T22WKV5",
+      "ticker": "SU29013RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A101KT1",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29013",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1915920000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1586131200
+      },
+      "placement_date": {
+        "seconds": 1586304000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 2,
+        "nano": 370000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 450000000,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "2a0dcd79-e6ea-4b53-9788-a35c8592f9c7",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "b62b26d4-e8e5-4360-8d30-a01bf72258b5",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1599652980
+      },
+      "first_1day_candle_date": {
+        "seconds": 1599634800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG0000776S2",
+      "ticker": "SU46020RMFS2",
+      "class_code": "TQOB",
+      "isin": "RU000A0GN9A7",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 46020",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2085868800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1139443200
+      },
+      "placement_date": {
+        "seconds": 1139961600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 10,
+        "nano": 210000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 135000000,
+      "issue_size_plan": 8000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "amortization_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "c233913c-affb-472c-9060-17a94a1062d9",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "8814d210-0984-4e32-9e9c-9ee3ea96ac7d",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520458380
+      },
+      "first_1day_candle_date": {
+        "seconds": 1139961600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00B9PJ7V0",
+      "ticker": "SU26218RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A0JVW48",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26218",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1947369600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1445558400
+      },
+      "placement_date": {
+        "seconds": 1445990400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 2,
+        "nano": 790000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 250000000,
+      "issue_size_plan": 250000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "a29f7dc2-1eed-4db8-a14d-bf1f5d881ab4",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "8a37365a-8fe3-4fcb-93e0-924ef984e3cc",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520447940
+      },
+      "first_1day_candle_date": {
+        "seconds": 1455667200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00RKDZWG3",
+      "ticker": "SU24021RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A101CK7",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 24021",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1713916800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1579824000
+      },
+      "placement_date": {
+        "seconds": 1580256000
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 14,
+        "nano": 820000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 300000000,
+      "issue_size_plan": 300000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "4a133249-4f2c-4d2e-ac0f-ca11876cc6f1",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "4cbbf33c-8f19-4bd4-818a-52b6df398b15",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1580298420
+      },
+      "first_1day_candle_date": {
+        "seconds": 1580281200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG009J6Q4B7",
+      "ticker": "SU52001RMFS3",
+      "class_code": "TQOB",
+      "isin": "RU000A0JVMH1",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 52001",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1692144000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1551,
+        "nano": 520000000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1436918400
+      },
+      "placement_date": {
+        "seconds": 1437091200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 5,
+        "nano": 740000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 150000000,
+      "issue_size_plan": 150000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "ff87e57a-cd4f-406d-a156-541fb0abcb2c",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "02bb150e-43d7-494e-b6e5-a28106f3d2d9",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520476620
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520578800
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00K53FX22",
+      "ticker": "SU26225RMFS1",
+      "class_code": "TQOB",
+      "isin": "RU000A0ZYUB7",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26225",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 2030832000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1518652800
+      },
+      "placement_date": {
+        "seconds": 1519171200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 27,
+        "nano": 410000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "1278a466-213d-468b-ae0b-2be05fd783e4",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "e4289951-ff41-4650-96ab-c3c802c8adf3",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448420
+      },
+      "first_1day_candle_date": {
+        "seconds": 1519776000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00K53FBX6",
+      "ticker": "SU26224RMFS4",
+      "class_code": "TQOB",
+      "isin": "RU000A0ZYUA9",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26224",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1874188800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1518652800
+      },
+      "placement_date": {
+        "seconds": 1519171200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 24,
+        "nano": 770000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "0160ee09-4b13-42d3-80f7-1482620820ea",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "61bdcdb2-5733-4cf9-bb6a-7c2b975f3109",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448000
+      },
+      "first_1day_candle_date": {
+        "seconds": 1520406000
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00Y04MGR7",
+      "ticker": "SU29019RMFS5",
+      "class_code": "TQOB",
+      "isin": "RU000A102A49",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29019",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1879027200
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1603670400
+      },
+      "placement_date": {
+        "seconds": 1603843200
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 14,
+        "nano": 820000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 430194756,
+      "issue_size_plan": 450000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "01d6a56a-1dfd-4c01-95f0-aa46372b22a8",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "3ea0efeb-824d-4d45-978d-a477ecf3e461",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1603888680
+      },
+      "first_1day_candle_date": {
+        "seconds": 1603868400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG01DC7XWW9",
+      "ticker": "SU26242RMFS6",
+      "class_code": "TQOB",
+      "isin": "RU000A105RV3",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26242",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1882656000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1674086400
+      },
+      "placement_date": {
+        "seconds": 1674604800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 18,
+        "nano": 490000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "aeb87814-40bc-4d36-bf59-9242e3503a04",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "2548df0e-26ce-4efb-b338-e6ae285f718f",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1674716340
+      },
+      "first_1day_candle_date": {
+        "seconds": 1674716400
+      }
+    },
+    {
+      "figi": "BBG00Y04Q3V7",
+      "ticker": "SU26235RMFS0",
+      "class_code": "TQOB",
+      "isin": "RU000A1028E3",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26235",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1931040000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1602460800
+      },
+      "placement_date": {
+        "seconds": 1602633600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 3,
+        "nano": 70000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 483816503,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "1a9082e6-e1f0-4486-b3f7-5bd9a81482da",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "cc37e9ce-2170-4d33-b75a-5a5b5d7afe6c",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1603893900
+      },
+      "first_1day_candle_date": {
+        "seconds": 1603868400
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00YB8K0V8",
+      "ticker": "SU26236RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A102BT8",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 26236",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1842134400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1604880000
+      },
+      "placement_date": {
+        "seconds": 1605052800
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 21,
+        "nano": 550000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "5b155074-b834-4d45-a730-571b7ca60ff6",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "d98c08f2-a990-4a9a-8f65-64193e18ad9b",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1606306020
+      },
+      "first_1day_candle_date": {
+        "seconds": 1606287600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "TCS00A105B11",
+      "ticker": "SU29021RMFS1",
+      "class_code": "TQOB",
+      "isin": "RU000A105B11",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 29021",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 4,
+      "maturity_date": {
+        "seconds": 1921968000
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1665705600
+      },
+      "placement_date": {
+        "seconds": 1666137600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 6,
+        "nano": 630000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 500000000,
+      "issue_size_plan": 500000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "floating_coupon_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "795a52e1-36f5-4332-a960-0acd59d7c985",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "bdfdb5b9-35f2-4dd0-9b5f-b37d508fc7f1",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1666249260
+      },
+      "first_1day_candle_date": {
+        "seconds": 1666249200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00D6Q7LY6",
+      "ticker": "SU26219RMFS4",
+      "class_code": "TQOB",
+      "isin": "RU000A0JWM07",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26219",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1789516800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1466553600
+      },
+      "placement_date": {
+        "seconds": 1467158400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 4,
+        "nano": 30000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 250000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "25297c10-8225-4b47-a984-c4ee38093ef0",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "abb47f0d-975f-4e4b-b484-27d39d6b6151",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520448240
+      },
+      "first_1day_candle_date": {
+        "seconds": 1467763200
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG00GLT6144",
+      "ticker": "SU26222RMFS8",
+      "class_code": "TQOB",
+      "isin": "RU000A0JXQF2",
+      "lot": 1,
+      "currency": "rub",
+      "klong": {
+        "units": 2
+      },
+      "kshort": {
+        "units": 2
+      },
+      "dlong": {
+        "nano": 300000000
+      },
+      "dshort": {
+        "nano": 300000000
+      },
+      "dlong_min": {
+        "nano": 163300000
+      },
+      "dshort_min": {
+        "nano": 140200000
+      },
+      "name": "ОФЗ 26222",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1729036800
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1493251200
+      },
+      "placement_date": {
+        "seconds": 1493769600
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 33,
+        "nano": 650000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 250000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "4703e47c-9266-46bb-8ba1-ba45340bdd38",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "3911b39b-b58d-4594-b2b0-fc2c75c76ff8",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1520447880
+      },
+      "first_1day_candle_date": {
+        "seconds": 1493769600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    },
+    {
+      "figi": "BBG01FVH2C22",
+      "ticker": "SU52005RMFS4",
+      "class_code": "TQOB",
+      "isin": "RU000A105XV1",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 52005",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1999382400
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1005,
+        "nano": 940000000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1678320000
+      },
+      "placement_date": {
+        "seconds": 1678838400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "units": 1,
+        "nano": 790000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 350000000,
+      "issue_size_plan": 350000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "19061f24-e2dd-4f62-a7a0-4502fde7e49e",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "b27d52cd-ab39-4943-91d7-e4c4544cba50",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1678949940
+      },
+      "first_1day_candle_date": {
+        "seconds": 1678950000
+      }
+    },
+    {
+      "figi": "BBG00RRT3TX4",
+      "ticker": "SU25084RMFS3",
+      "class_code": "TQOB",
+      "isin": "RU000A101FA1",
+      "lot": 1,
+      "currency": "rub",
+      "name": "ОФЗ 25084",
+      "exchange": "MOEX_PLUS",
+      "coupon_quantity_per_year": 2,
+      "maturity_date": {
+        "seconds": 1696377600
+      },
+      "nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "initial_nominal": {
+        "currency": "rub",
+        "units": 1000
+      },
+      "state_reg_date": {
+        "seconds": 1581638400
+      },
+      "placement_date": {
+        "seconds": 1582070400
+      },
+      "placement_price": {
+        "currency": "rub"
+      },
+      "aci_value": {
+        "currency": "rub",
+        "nano": 730000000
+      },
+      "country_of_risk": "RU",
+      "country_of_risk_name": "Российская Федерация",
+      "sector": "government",
+      "issue_kind": "documentary",
+      "issue_size": 400000000,
+      "issue_size_plan": 400000000,
+      "trading_status": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+      "buy_available_flag": true,
+      "sell_available_flag": true,
+      "min_price_increment": {
+        "nano": 1000000
+      },
+      "api_trade_available_flag": true,
+      "uid": "e8fb911a-efe7-4d16-8da4-b91cb5e50974",
+      "real_exchange": "REAL_EXCHANGE_MOEX",
+      "position_uid": "90c78830-ad5d-4cc7-b9fc-640967736a08",
+      "for_iis_flag": true,
+      "first_1min_candle_date": {
+        "seconds": 1582113480
+      },
+      "first_1day_candle_date": {
+        "seconds": 1582095600
+      },
+      "risk_level": "RISK_LEVEL_LOW"
+    }
+  ]
+}

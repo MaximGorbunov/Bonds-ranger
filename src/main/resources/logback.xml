@@ -1,0 +1,18 @@
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOG_PREFIX}%highlight(%d{YYYY-MM-dd HH:mm:ss.SSS} [%X{x-request-id}] [%X{dd.trace_id}]
+                [%X{dd.span_id}] [%thread] %-5level) %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <appender name="ASYNC_STDOUT" class="ch.qos.logback.classic.AsyncAppender">
+        <queueSize>512</queueSize>
+        <appender-ref ref="STDOUT"/>
+    </appender>
+
+    <root level="WARN">
+        <appender-ref ref="ASYNC_STDOUT"/>
+    </root>
+</configuration>

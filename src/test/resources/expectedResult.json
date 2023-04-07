@@ -1,0 +1,362 @@
+[
+  {
+    "name": "ОФЗ 52003",
+    "profitPercent": 0.8064205668662904,
+    "price": 1224.4689366,
+    "figi": "BBG00XD2M5S2",
+    "ticker": "SU52003RMFS9",
+    "isin": "RU000A102069"
+  },
+  {
+    "name": "ОФЗ 52002",
+    "profitPercent": 0.7279974031946488,
+    "price": 1359.7010759999998,
+    "figi": "BBG00KFLDC92",
+    "ticker": "SU52002RMFS1",
+    "isin": "RU000A0ZYZ26"
+  },
+  {
+    "name": "ОФЗ 26230",
+    "profitPercent": 0.6968828426885577,
+    "price": 783.46,
+    "figi": "BBG00PBZNWM4",
+    "ticker": "SU26230RMFS1",
+    "isin": "RU000A100EF5"
+  },
+  {
+    "name": "ОФЗ 52001",
+    "profitPercent": 0.6904491900197012,
+    "price": 1555.7084800000002,
+    "figi": "BBG009J6Q4B7",
+    "ticker": "SU52001RMFS3",
+    "isin": "RU000A0JVMH1"
+  },
+  {
+    "name": "ОФЗ 26241",
+    "profitPercent": 0.6668909873624692,
+    "price": 989.23,
+    "figi": "BBG01BJBR2W0",
+    "ticker": "SU26241RMFS8",
+    "isin": "RU000A105FZ9"
+  },
+  {
+    "name": "ОФЗ 26218",
+    "profitPercent": 0.663707141012085,
+    "price": 907.79,
+    "figi": "BBG00B9PJ7V0",
+    "ticker": "SU26218RMFS6",
+    "isin": "RU000A0JVW48"
+  },
+  {
+    "name": "ОФЗ 26238",
+    "profitPercent": 0.6614841332377902,
+    "price": 748.02,
+    "figi": "BBG011FJ4HS6",
+    "ticker": "SU26238RMFS4",
+    "isin": "RU000A1038V6"
+  },
+  {
+    "name": "ОФЗ 26240",
+    "profitPercent": 0.6533194768488806,
+    "price": 757.35,
+    "figi": "BBG011MLGP84",
+    "ticker": "SU26240RMFS0",
+    "isin": "RU000A103BR0"
+  },
+  {
+    "name": "ОФЗ 26221",
+    "profitPercent": 0.6476629085798072,
+    "price": 842.9999999999999,
+    "figi": "BBG00G6V7252",
+    "ticker": "SU26221RMFS0",
+    "isin": "RU000A0JXFM1"
+  },
+  {
+    "name": "ОФЗ 29009",
+    "profitPercent": 0.6416016320282962,
+    "price": 1099.9299999999998,
+    "figi": "BBG007Z5F748",
+    "ticker": "SU29009RMFS6",
+    "isin": "RU000A0JV4N8"
+  },
+  {
+    "name": "ОФЗ 29010",
+    "profitPercent": 0.6135728803487801,
+    "price": 1088.04,
+    "figi": "BBG007Z5FFL1",
+    "ticker": "SU29010RMFS4",
+    "isin": "RU000A0JV4Q1"
+  },
+  {
+    "name": "ОФЗ 26225",
+    "profitPercent": 0.6096842438368228,
+    "price": 822.31,
+    "figi": "BBG00K53FX22",
+    "ticker": "SU26225RMFS1",
+    "isin": "RU000A0ZYUB7"
+  },
+  {
+    "name": "ОФЗ 26233",
+    "profitPercent": 0.603962791796008,
+    "price": 712.76,
+    "figi": "BBG00RRT3V69",
+    "ticker": "SU26233RMFS5",
+    "isin": "RU000A101F94"
+  },
+  {
+    "name": "ОФЗ 29006",
+    "profitPercent": 0.6000245068998135,
+    "price": 1027.01,
+    "figi": "BBG007Z13SN3",
+    "ticker": "SU29006RMFS2",
+    "isin": "RU000A0JV4L2"
+  },
+  {
+    "name": "ОФЗ 29007",
+    "profitPercent": 0.5971242777758975,
+    "price": 1030.1499999999999,
+    "figi": "BBG007Z5DF79",
+    "ticker": "SU29007RMFS0",
+    "isin": "RU000A0JV4M0"
+  },
+  {
+    "name": "ОФЗ 26239",
+    "profitPercent": 0.5840417677788795,
+    "price": 833.8,
+    "figi": "BBG011FHF1F7",
+    "ticker": "SU26239RMFS2",
+    "isin": "RU000A103901"
+  },
+  {
+    "name": "ОФЗ 26207",
+    "profitPercent": 0.5808435105096493,
+    "price": 991.1300000000001,
+    "figi": "BBG002PD3452",
+    "ticker": "SU26207RMFS9",
+    "isin": "RU000A0JS3W6"
+  },
+  {
+    "name": "ОФЗ 29019",
+    "profitPercent": 0.5662961803037034,
+    "price": 999.32,
+    "figi": "BBG00Y04MGR7",
+    "ticker": "SU29019RMFS5",
+    "isin": "RU000A102A49"
+  },
+  {
+    "name": "ОФЗ 26219",
+    "profitPercent": 0.560893238195854,
+    "price": 979.03,
+    "figi": "BBG00D6Q7LY6",
+    "ticker": "SU26219RMFS4",
+    "isin": "RU000A0JWM07"
+  },
+  {
+    "name": "ОФЗ 29022",
+    "profitPercent": 0.5586912583455433,
+    "price": 992.1399999999999,
+    "figi": "BBG01BJBTTH6",
+    "ticker": "SU29022RMFS9",
+    "isin": "RU000A105G16"
+  },
+  {
+    "name": "ОФЗ 24021",
+    "profitPercent": 0.5572184904500758,
+    "price": 1015.6,
+    "figi": "BBG00RKDZWG3",
+    "ticker": "SU24021RMFS6",
+    "isin": "RU000A101CK7"
+  },
+  {
+    "name": "ОФЗ 29018",
+    "profitPercent": 0.5509697165450466,
+    "price": 986.8299999999999,
+    "figi": "BBG00Y28DH67",
+    "ticker": "SU29018RMFS7",
+    "isin": "RU000A102A31"
+  },
+  {
+    "name": "ОФЗ 29017",
+    "profitPercent": 0.5508524936964543,
+    "price": 987.04,
+    "figi": "BBG00XV43CN9",
+    "ticker": "SU29017RMFS9",
+    "isin": "RU000A1028D5"
+  },
+  {
+    "name": "ОФЗ 29021",
+    "profitPercent": 0.549410835744822,
+    "price": 989.63,
+    "figi": "TCS00A105B11",
+    "ticker": "SU29021RMFS1",
+    "isin": "RU000A105B11"
+  },
+  {
+    "name": "ОФЗ 29013",
+    "profitPercent": 0.5490593803067545,
+    "price": 983.49,
+    "figi": "BBG00T22WKV5",
+    "ticker": "SU29013RMFS8",
+    "isin": "RU000A101KT1"
+  },
+  {
+    "name": "ОФЗ 26237",
+    "profitPercent": 0.5485031901758888,
+    "price": 865.48,
+    "figi": "BBG011FJ6573",
+    "ticker": "SU26237RMFS6",
+    "isin": "RU000A1038Z7"
+  },
+  {
+    "name": "ОФЗ 29020",
+    "profitPercent": 0.5448984964055398,
+    "price": 991.0,
+    "figi": "BBG00Y4SQ1Y1",
+    "ticker": "SU29020RMFS3",
+    "isin": "RU000A102BV4"
+  },
+  {
+    "name": "ОФЗ 29016",
+    "profitPercent": 0.5422338356792453,
+    "price": 995.8699999999999,
+    "figi": "BBG00XP7VH57",
+    "ticker": "SU29016RMFS1",
+    "isin": "RU000A1025B5"
+  },
+  {
+    "name": "ОФЗ 29014",
+    "profitPercent": 0.5413152190724266,
+    "price": 997.5600000000001,
+    "figi": "BBG00VY13C74",
+    "ticker": "SU29014RMFS6",
+    "isin": "RU000A101N52"
+  },
+  {
+    "name": "ОФЗ 29008",
+    "profitPercent": 0.5387886961800582,
+    "price": 1102.57,
+    "figi": "BBG007Z5DZS2",
+    "ticker": "SU29008RMFS8",
+    "isin": "RU000A0JV4P3"
+  },
+  {
+    "name": "ОФЗ 26224",
+    "profitPercent": 0.5380128588588736,
+    "price": 890.77,
+    "figi": "BBG00K53FBX6",
+    "ticker": "SU26224RMFS4",
+    "isin": "RU000A0ZYUA9"
+  },
+  {
+    "name": "ОФЗ 26212",
+    "profitPercent": 0.537840776949906,
+    "price": 924.48,
+    "figi": "BBG00425VG07",
+    "ticker": "SU26212RMFS9",
+    "isin": "RU000A0JTK38"
+  },
+  {
+    "name": "ОФЗ 26228",
+    "profitPercent": 0.5374520756920917,
+    "price": 916.71,
+    "figi": "BBG00NZHWSQ8",
+    "ticker": "SU26228RMFS5",
+    "isin": "RU000A100A82"
+  },
+  {
+    "name": "ОФЗ 26235",
+    "profitPercent": 0.5372553398896635,
+    "price": 778.1700000000001,
+    "figi": "BBG00Y04Q3V7",
+    "ticker": "SU26235RMFS0",
+    "isin": "RU000A1028E3"
+  },
+  {
+    "name": "ОФЗ 26227",
+    "profitPercent": 0.5158993313358717,
+    "price": 1010.33,
+    "figi": "BBG00NQBGZX5",
+    "ticker": "SU26227RMFS7",
+    "isin": "RU000A1007F4"
+  },
+  {
+    "name": "ОФЗ 26226",
+    "profitPercent": 0.5038871963584055,
+    "price": 1016.1,
+    "figi": "BBG00N8J90K7",
+    "ticker": "SU26226RMFS9",
+    "isin": "RU000A0ZZYW2"
+  },
+  {
+    "name": "ОФЗ 26229",
+    "profitPercent": 0.49129698769843,
+    "price": 1000.4,
+    "figi": "BBG00PBZNT41",
+    "ticker": "SU26229RMFS3",
+    "isin": "RU000A100EG3"
+  },
+  {
+    "name": "ОФЗ 26215",
+    "profitPercent": 0.49002842945717595,
+    "price": 1009.72,
+    "figi": "BBG0058ZL5S7",
+    "ticker": "SU26215RMFS2",
+    "isin": "RU000A0JU4L3"
+  },
+  {
+    "name": "ОФЗ 26223",
+    "profitPercent": 0.4610295445741756,
+    "price": 997.72,
+    "figi": "BBG00K53DJP0",
+    "ticker": "SU26223RMFS6",
+    "isin": "RU000A0ZYU88"
+  },
+  {
+    "name": "ОФЗ 26236",
+    "profitPercent": 0.4532796396150467,
+    "price": 869.4,
+    "figi": "BBG00YB8K0V8",
+    "ticker": "SU26236RMFS8",
+    "isin": "RU000A102BT8"
+  },
+  {
+    "name": "ОФЗ 26222",
+    "profitPercent": 0.4472958382489916,
+    "price": 1021.3499999999999,
+    "figi": "BBG00GLT6144",
+    "ticker": "SU26222RMFS8",
+    "isin": "RU000A0JXQF2"
+  },
+  {
+    "name": "ОФЗ 26232",
+    "profitPercent": 0.4225737504626892,
+    "price": 914.0900000000001,
+    "figi": "BBG00R0Z4YW8",
+    "ticker": "SU26232RMFS7",
+    "isin": "RU000A1014N4"
+  },
+  {
+    "name": "ОФЗ 25084",
+    "profitPercent": 0.3790030384317141,
+    "price": 991.5,
+    "figi": "BBG00RRT3TX4",
+    "ticker": "SU25084RMFS3",
+    "isin": "RU000A101FA1"
+  },
+  {
+    "name": "ОФЗ 26234",
+    "profitPercent": 0.34016086908542253,
+    "price": 932.08,
+    "figi": "BBG00VCY76T1",
+    "ticker": "SU26234RMFS3",
+    "isin": "RU000A101QE0"
+  },
+  {
+    "name": "ОФЗ 52004",
+    "profitPercent": 0.18321682921755286,
+    "price": 1132.157573,
+    "figi": "BBG012F0B291",
+    "ticker": "SU52004RMFS7",
+    "isin": "RU000A103MX5"
+  }
+]
