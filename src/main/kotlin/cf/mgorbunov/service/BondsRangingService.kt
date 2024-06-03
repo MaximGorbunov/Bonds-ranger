@@ -43,7 +43,8 @@ class BondsRangingService(
                     russiaOFZ = it.name.startsWith("ОФЗ"),
                     sellDate = sellDate,
                     ruoniaRate = calculateRuoniaRate(ruoniaRate, it),
-                    nominal = nominal
+                    nominal = nominal,
+                    floatingCoupon = it.floatingCouponFlag
                 )
                 couponsIncome -= calculateTax(couponsIncome, currentAccumulatedCouponIncome)
                 val incomePercent = ((bondPrice + couponsIncome) - fullBondPrice) * 100.0 / fullBondPrice
@@ -76,7 +77,8 @@ class BondsRangingService(
         russiaOFZ: Boolean,
         sellDate: LocalDateTime,
         ruoniaRate: Double,
-        nominal: Double
+        nominal: Double,
+        floatingCoupon: Boolean
     ): Double { // Сумма дохода по купонам
         val currentDateSeconds = LocalDateTime.now().toEpochSecond(ZoneOffset.UTC)
         val coupons =
@@ -96,7 +98,13 @@ class BondsRangingService(
                     ?: return 0.0 // Не должно быть null, ожидается хоть будующая одна выплата по купонам
                 val daysUntilNextCoupon = (nextCoupon.fixDate.seconds - currentDateSeconds) / SECONDS_IN_DAY
                 val couponValue =
-                    getCouponValue(nextCoupon.payOneBond.convertToDouble(), russiaOFZ, nominal, ruoniaRate)
+                    getCouponValue(
+                        nextCoupon.payOneBond.convertToDouble(),
+                        russiaOFZ,
+                        nominal,
+                        ruoniaRate,
+                        floatingCoupon
+                    )
                 val incomePerDay =
                     (couponValue - currentAccumulatedCouponIncome) / daysUntilNextCoupon // Вычитаем из купонного дохода текущий накполенный и делим на количество оставшихся дней чтоб получить доход с купона в день
                 currentAccumulatedCouponIncome + (incomePerDay * daysUntilSell)
@@ -113,7 +121,7 @@ class BondsRangingService(
                     val daysUntilNextCoupon =
                         (nextCoupon.couponEndDate.seconds - nextCoupon.couponStartDate.seconds) / SECONDS_IN_DAY
                     val couponValue =
-                        getCouponValue(nextCoupon.payOneBond.convertToDouble(), russiaOFZ, nominal, ruoniaRate)
+                        getCouponValue(nextCoupon.payOneBond.convertToDouble(), russiaOFZ, nominal, ruoniaRate, floatingCoupon)
                     val incomePerDay =
                         couponValue / daysUntilNextCoupon // Величину купона делим на количество оставшихся дней чтоб получить доход с купона в день
                     incomePerDay * daysUntilSellFromCouponStart
@@ -123,10 +131,10 @@ class BondsRangingService(
             }
         val couponsSum = ownPeriodCoupons.sumOf {
             var couponValue = it.payOneBond.convertToDouble()
-            if (couponValue == 0.0 && russiaOFZ) {
+            if (couponValue == 0.0 && russiaOFZ && floatingCoupon) {
                 couponValue = nominal * ruoniaRate
             }
-            getCouponValue(it.payOneBond.convertToDouble(), russiaOFZ, nominal, ruoniaRate)
+            getCouponValue(it.payOneBond.convertToDouble(), russiaOFZ, nominal, ruoniaRate, floatingCoupon)
             couponValue
         }
         return couponsSum + accumulatedCouponIncome
@@ -136,9 +144,10 @@ class BondsRangingService(
         value: Double,
         russiaOFZ: Boolean,
         nominal: Double,
-        ruoniaRate: Double
+        ruoniaRate: Double,
+        floatingCoupon: Boolean
     ): Double {
-        if (value == 0.0 && russiaOFZ) {
+        if (value == 0.0 && russiaOFZ && floatingCoupon) {
             return nominal * ruoniaRate
         }
         return value
